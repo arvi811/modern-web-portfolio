@@ -14,7 +14,7 @@ body {
   position: relative;
   background-color: #fcfcfc;
   font-family: "Roboto", sans-serif;
-  margin-bottom: 500px;
+  margin-bottom: 100px;
 }
 
 ::selection {
@@ -88,7 +88,7 @@ body {
 }
 
 .brand-name span {
-  color: #fff30f;
+  color: #3177f8;
 }
 
 .btn {
